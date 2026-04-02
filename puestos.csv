@@ -1,0 +1,101 @@
+﻿ID_PUESTO,NOMBRE_PUESTO,UBICACION,TIPO_PUESTO
+P001,Puesto Comercial 001,San José,Comercial
+P002,Puesto Logístico 002,Alajuela,Logístico
+P003,Puesto Corporativo 003,Alajuela,Corporativo
+P004,Puesto Comercial 004,Puntarenas,Comercial
+P005,Puesto Retail 005,San José,Retail
+P006,Puesto Institucional 006,Heredia,Institucional
+P007,Puesto Residencial 007,San José,Residencial
+P008,Puesto Comercial 008,Alajuela,Comercial
+P009,Puesto Corporativo 009,Guanacaste,Corporativo
+P010,Puesto Institucional 010,San José,Institucional
+P011,Puesto Retail 011,Alajuela,Retail
+P012,Puesto Retail 012,Heredia,Retail
+P013,Puesto Corporativo 013,Heredia,Corporativo
+P014,Puesto Institucional 014,Cartago,Institucional
+P015,Puesto Residencial 015,Limón,Residencial
+P016,Puesto Industrial 016,Puntarenas,Industrial
+P017,Puesto Salud 017,Cartago,Salud
+P018,Puesto Logístico 018,Alajuela,Logístico
+P019,Puesto Corporativo 019,Limón,Corporativo
+P020,Puesto Educativo 020,San José,Educativo
+P021,Puesto Comercial 021,Heredia,Comercial
+P022,Puesto Comercial 022,Cartago,Comercial
+P023,Puesto Educativo 023,Guanacaste,Educativo
+P024,Puesto Logístico 024,Limón,Logístico
+P025,Puesto Residencial 025,Puntarenas,Residencial
+P026,Puesto Bancario 026,Guanacaste,Bancario
+P027,Puesto Comercial 027,Heredia,Comercial
+P028,Puesto Comercial 028,Guanacaste,Comercial
+P029,Puesto Logístico 029,Limón,Logístico
+P030,Puesto Institucional 030,Limón,Institucional
+P031,Puesto Educativo 031,Guanacaste,Educativo
+P032,Puesto Corporativo 032,Puntarenas,Corporativo
+P033,Puesto Comercial 033,San José,Comercial
+P034,Puesto Corporativo 034,Limón,Corporativo
+P035,Puesto Logístico 035,San José,Logístico
+P036,Puesto Corporativo 036,Limón,Corporativo
+P037,Puesto Comercial 037,Heredia,Comercial
+P038,Puesto Logístico 038,Heredia,Logístico
+P039,Puesto Educativo 039,Alajuela,Educativo
+P040,Puesto Educativo 040,Cartago,Educativo
+P041,Puesto Corporativo 041,Puntarenas,Corporativo
+P042,Puesto Logístico 042,Puntarenas,Logístico
+P043,Puesto Comercial 043,Guanacaste,Comercial
+P044,Puesto Industrial 044,Guanacaste,Industrial
+P045,Puesto Corporativo 045,Alajuela,Corporativo
+P046,Puesto Bancario 046,Heredia,Bancario
+P047,Puesto Logístico 047,Puntarenas,Logístico
+P048,Puesto Retail 048,Alajuela,Retail
+P049,Puesto Educativo 049,Limón,Educativo
+P050,Puesto Residencial 050,Alajuela,Residencial
+P051,Puesto Residencial 051,Limón,Residencial
+P052,Puesto Educativo 052,Heredia,Educativo
+P053,Puesto Logístico 053,San José,Logístico
+P054,Puesto Corporativo 054,Guanacaste,Corporativo
+P055,Puesto Educativo 055,Alajuela,Educativo
+P056,Puesto Bancario 056,Heredia,Bancario
+P057,Puesto Bancario 057,Alajuela,Bancario
+P058,Puesto Logístico 058,Alajuela,Logístico
+P059,Puesto Corporativo 059,Puntarenas,Corporativo
+P060,Puesto Retail 060,Guanacaste,Retail
+P061,Puesto Logístico 061,Puntarenas,Logístico
+P062,Puesto Institucional 062,Heredia,Institucional
+P063,Puesto Institucional 063,Heredia,Institucional
+P064,Puesto Educativo 064,Alajuela,Educativo
+P065,Puesto Industrial 065,Guanacaste,Industrial
+P066,Puesto Bancario 066,San José,Bancario
+P067,Puesto Residencial 067,Limón,Residencial
+P068,Puesto Comercial 068,Alajuela,Comercial
+P069,Puesto Industrial 069,Limón,Industrial
+P070,Puesto Salud 070,Guanacaste,Salud
+P071,Puesto Comercial 071,Heredia,Comercial
+P072,Puesto Salud 072,Guanacaste,Salud
+P073,Puesto Bancario 073,Guanacaste,Bancario
+P074,Puesto Logístico 074,Guanacaste,Logístico
+P075,Puesto Residencial 075,Puntarenas,Residencial
+P076,Puesto Comercial 076,Puntarenas,Comercial
+P077,Puesto Retail 077,Limón,Retail
+P078,Puesto Logístico 078,Limón,Logístico
+P079,Puesto Educativo 079,San José,Educativo
+P080,Puesto Logístico 080,Heredia,Logístico
+P081,Puesto Industrial 081,Heredia,Industrial
+P082,Puesto Residencial 082,Puntarenas,Residencial
+P083,Puesto Logístico 083,Guanacaste,Logístico
+P084,Puesto Industrial 084,Guanacaste,Industrial
+P085,Puesto Comercial 085,Limón,Comercial
+P086,Puesto Logístico 086,Limón,Logístico
+P087,Puesto Retail 087,Guanacaste,Retail
+P088,Puesto Corporativo 088,Alajuela,Corporativo
+P089,Puesto Educativo 089,Limón,Educativo
+P090,Puesto Industrial 090,Guanacaste,Industrial
+P091,Puesto Retail 091,San José,Retail
+P092,Puesto Institucional 092,Cartago,Institucional
+P093,Puesto Bancario 093,San José,Bancario
+P094,Puesto Comercial 094,Cartago,Comercial
+P095,Puesto Logístico 095,Alajuela,Logístico
+P096,Puesto Residencial 096,Alajuela,Residencial
+P097,Puesto Institucional 097,San José,Institucional
+P098,Puesto Comercial 098,Puntarenas,Comercial
+P099,Puesto Bancario 099,Limón,Bancario
+P100,Puesto Comercial 100,Limón,Comercial
